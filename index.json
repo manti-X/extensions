@@ -183,6 +183,27 @@
         ]
       },
       {
+        "name": "Manga One (App)",
+        "packageName": "com.github.manti.extension.ja.mangaone",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.mangaone-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.mangaone.png",
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangaone-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5176936867140676223",
+            "name": "Manga One (App)",
+            "language": "ja",
+            "homeUrl": "https://manga-one.com"
+          }
+        ]
+      },
+      {
         "name": "MangaUp Japan (App)",
         "packageName": "com.github.manti.extension.ja.mangaupjapanapp",
         "resources": {
