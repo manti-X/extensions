@@ -24,7 +24,7 @@ If you encounter an issue, want to request a feature, or want to request a new s
 Before opening an issue, please verify that your app and its version are supported and that the issue is reproducible with the latest version of the extension.
 
 ## Disclaimer
-This repository is **not affiliated with Mihon, Keiyoushi, or any of the supported apps**.
+This repository is **not affiliated with Mihon, Keiyoushi, or any other app**.
 
 The extensions provided here are third-party software and are maintained independently. Availability and functionality may change at any time. Use them at your own discretion.
 
