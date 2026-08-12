@@ -9,71 +9,23 @@
   "extensionList": {
     "extensions": [
       {
-        "name": "Manga Plus (App)",
-        "packageName": "com.github.manti.extension.all.mangaplus",
+        "name": "Rakuten Kobo (Library Only)",
+        "packageName": "com.github.manti.extension.all.kobo",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-all.mangaplus-v1.6.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.all.mangaplus.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-all.mangaplus-v1.6.2.jar"
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-all.kobo-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.all.kobo.png",
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-all.kobo-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "2",
-        "versionName": "1.6.2",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "4271942238130494798",
-            "name": "Manga Plus (App)",
-            "language": "en",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "5748536721944188349",
-            "name": "Manga Plus (App)",
-            "language": "es",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "4521200606602809231",
-            "name": "Manga Plus (App)",
-            "language": "fr",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "7293725775162349421",
-            "name": "Manga Plus (App)",
-            "language": "id",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "1145724579562736840",
-            "name": "Manga Plus (App)",
-            "language": "pt-BR",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "5914483221621994055",
-            "name": "Manga Plus (App)",
-            "language": "ru",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "4473593935282656010",
-            "name": "Manga Plus (App)",
-            "language": "th",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "165001383509847122",
-            "name": "Manga Plus (App)",
-            "language": "vi",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "3791765612702539030",
-            "name": "Manga Plus (App)",
-            "language": "de",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
+            "id": "6970396488071530274",
+            "name": "Rakuten Kobo (Library Only)",
+            "language": "all",
+            "homeUrl": "https://www.kobo.com"
           }
         ]
       },
@@ -168,27 +120,6 @@
         ]
       },
       {
-        "name": "Alpha Manga (App)",
-        "packageName": "com.github.manti.extension.en.alphamanga",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-en.alphamanga-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.en.alphamanga.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-en.alphamanga-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "1",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "622874214439467587",
-            "name": "Alpha Manga (App)",
-            "language": "en",
-            "homeUrl": "https://www.alpha-manga.com"
-          }
-        ]
-      },
-      {
         "name": "Shonen Jump (App)",
         "packageName": "com.github.manti.extension.en.shonenjump",
         "resources": {
@@ -204,48 +135,6 @@
           {
             "id": "505403453408081509",
             "name": "Shonen Jump (App)",
-            "language": "en",
-            "homeUrl": "https://www.viz.com"
-          }
-        ]
-      },
-      {
-        "name": "Shonen Jump (App)",
-        "packageName": "com.github.manti.extension.en.shonenjump",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-en.shonenjump-v1.6.4.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.en.shonenjump.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-en.shonenjump-v1.6.4.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "4",
-        "versionName": "1.6.4",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "505403453408081509",
-            "name": "Shonen Jump (App)",
-            "language": "en",
-            "homeUrl": "https://www.viz.com"
-          }
-        ]
-      },
-      {
-        "name": "Viz (App)",
-        "packageName": "com.github.manti.extension.en.viz",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-en.viz-v1.6.4.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.en.viz.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-en.viz-v1.6.4.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "4",
-        "versionName": "1.6.4",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5948220632474500512",
-            "name": "Viz (App)",
             "language": "en",
             "homeUrl": "https://www.viz.com"
           }
@@ -290,48 +179,6 @@
             "name": "Gangan (App)",
             "language": "ja",
             "homeUrl": "https://www.ganganonline.com"
-          }
-        ]
-      },
-      {
-        "name": "Gangan (App)",
-        "packageName": "com.github.manti.extension.ja.gangan",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.gangan-v1.6.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.gangan.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.gangan-v1.6.3.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "3",
-        "versionName": "1.6.3",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3374601820697061355",
-            "name": "Gangan (App)",
-            "language": "ja",
-            "homeUrl": "https://www.ganganonline.com"
-          }
-        ]
-      },
-      {
-        "name": "Gaugau (App)",
-        "packageName": "com.github.manti.extension.ja.gaugau",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.gaugau-v1.6.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.gaugau.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.gaugau-v1.6.3.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "3",
-        "versionName": "1.6.3",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8541874339274664790",
-            "name": "Gaugau (App)",
-            "language": "ja",
-            "homeUrl": "https://gaugau.futabanet.jp"
           }
         ]
       },
@@ -395,48 +242,6 @@
             "name": "Manga One (App)",
             "language": "ja",
             "homeUrl": "https://manga-one.com"
-          }
-        ]
-      },
-      {
-        "name": "Manga One (App)",
-        "packageName": "com.github.manti.extension.ja.mangaone",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.mangaone-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.mangaone.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangaone-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "1",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5176936867140676223",
-            "name": "Manga One (App)",
-            "language": "ja",
-            "homeUrl": "https://manga-one.com"
-          }
-        ]
-      },
-      {
-        "name": "MangaUp Japan (App)",
-        "packageName": "com.github.manti.extension.ja.mangaupjapanapp",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.mangaupjapanapp-v1.6.4.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.mangaupjapanapp.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangaupjapanapp-v1.6.4.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "4",
-        "versionName": "1.6.4",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6195306841670152386",
-            "name": "MangaUp Japan (App)",
-            "language": "ja",
-            "homeUrl": "https://www.manga-up.com"
           }
         ]
       },
