@@ -17,7 +17,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-all.kobo-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "1",
+        "versionCode": "106001",
         "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
@@ -38,7 +38,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-all.mangaplus-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "2",
+        "versionCode": "106002",
         "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
@@ -107,7 +107,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-en.alphamanga-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "1",
+        "versionCode": "106001",
         "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
@@ -128,7 +128,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-en.shonenjump-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "6",
+        "versionCode": "106006",
         "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
@@ -149,7 +149,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-en.viz-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "6",
+        "versionCode": "106006",
         "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
@@ -170,7 +170,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.gangan-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "3",
+        "versionCode": "106003",
         "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
@@ -191,7 +191,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.gaugau-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "3",
+        "versionCode": "106003",
         "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
@@ -212,7 +212,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangamee-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "1",
+        "versionCode": "106001",
         "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
@@ -233,7 +233,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangaone-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "1",
+        "versionCode": "106001",
         "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
@@ -254,7 +254,7 @@
           "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangaupjapanapp-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "4",
+        "versionCode": "106004",
         "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
