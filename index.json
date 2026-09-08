@@ -33,13 +33,13 @@
         "name": "Manga Plus (App)",
         "packageName": "com.github.manti.extension.all.mangaplus",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-all.mangaplus-v1.6.2.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-all.mangaplus-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.all.mangaplus.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-all.mangaplus-v1.6.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-all.mangaplus-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -165,13 +165,13 @@
         "name": "Gangan (App)",
         "packageName": "com.github.manti.extension.ja.gangan",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.gangan-v1.6.3.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.gangan-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.gangan.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.gangan-v1.6.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.gangan-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -186,13 +186,13 @@
         "name": "Gaugau (App)",
         "packageName": "com.github.manti.extension.ja.gaugau",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.gaugau-v1.6.3.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.gaugau-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.gaugau.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.gaugau-v1.6.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.gaugau-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -207,13 +207,13 @@
         "name": "MangaMee (App)",
         "packageName": "com.github.manti.extension.ja.mangamee",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.mangamee-v1.6.1.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.mangamee-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.mangamee.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangamee-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangamee-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -228,13 +228,13 @@
         "name": "Manga One (App)",
         "packageName": "com.github.manti.extension.ja.mangaone",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.mangaone-v1.6.1.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.mangaone-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.mangaone.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangaone-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangaone-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -249,13 +249,13 @@
         "name": "MangaUp Japan (App)",
         "packageName": "com.github.manti.extension.ja.mangaupjapanapp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.mangaupjapanapp-v1.6.4.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-ja.mangaupjapanapp-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.ja.mangaupjapanapp.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangaupjapanapp-v1.6.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-ja.mangaupjapanapp-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
