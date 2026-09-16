@@ -12,17 +12,17 @@
         "name": "Rakuten Kobo (Library Only)",
         "packageName": "com.github.manti.extension.all.kobo",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-all.kobo-v1.6.1.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-all.kobo-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.all.kobo.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-all.kobo-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-all.kobo-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "6970396488071530274",
+            "id": "6134829451800288038",
             "name": "Rakuten Kobo (Library Only)",
             "language": "all",
             "homeUrl": "https://www.kobo.com"
