@@ -120,6 +120,27 @@
         ]
       },
       {
+        "name": "Shikanoko Nokonoko Koshitantan",
+        "packageName": "com.github.manti.extension.en.shikanoko",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-en.shikanoko-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.en.shikanoko.png",
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-en.shikanoko-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7892591032499751526",
+            "name": "Shikanoko Nokonoko Koshitantan",
+            "language": "en",
+            "homeUrl": "https://manga-epk.pages.dev"
+          }
+        ]
+      },
+      {
         "name": "Shonen Jump (App)",
         "packageName": "com.github.manti.extension.en.shonenjump",
         "resources": {
