@@ -102,13 +102,13 @@
         "name": "Alpha Manga (App)",
         "packageName": "com.github.manti.extension.en.alphamanga",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-en.alphamanga-v1.6.2.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/apk/tachiyomi-en.alphamanga-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/manti-X/extensions@repo/icon/com.github.manti.extension.en.alphamanga.png",
-          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-en.alphamanga-v1.6.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/manti-X/extensions/repo/jar/tachiyomi-en.alphamanga-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
